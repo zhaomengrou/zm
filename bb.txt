@@ -1,2 +1,6 @@
 wrrerer
+<<<<<<< HEAD
 nmncmxncmxnc
+=======
+sdshdksdhjksdj
+>>>>>>> f69b17bd107a741a9ff10878fdef6f3beddef3b7
